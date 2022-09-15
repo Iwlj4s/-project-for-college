@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>А.С.Пушкин</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+      crossorigin="anonymous"
+    ></script>
+    <style>
+        p {
+            text-align: center;
+        }
+        .rounded-img {
+        width: 60%;
+        border-radius: 70%;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+        padding: 0.em;
+        margin-bottom: 1em; 
+      }
+      body { background: url() no-repeat center;
+        margin-bottom: 40%;
+        background-position: center ;
+        background-size: 50%}
+        
+    </style>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container">
+        <a class="navbar-brand p-0" href="https://lesmeh.edu35.ru/attachments/article/174/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2009.02.07%20%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf" target="_blank">
+          <img width="60" src="img/emb.png" alt="ooo" />
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+            </li>
+            <a class="nav-link " aria-current="page" href="prakticheskaya rabota 52">Олимпийские игры</a>
+            <li class="nav-item">
+              <li class="nav-item">
+                <a class="nav-link active"  href="#">А.С.Пушкин </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link "  href="3page">Стихотворение </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link"  href="4page">Формат.текста </a>
+              </li>
+              <a class="nav-link" target="_blank" href="http://dic.academic.ru/dic.nsf/ruwiki/17672">Доп.информация Олимпийские игры </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+      <img src=img/gerb.png width=10% align=left >
+      <img src="img/bashnya.png" width="18%" border="0" style="position: fixed; right: 0px; bottom: 10px;" />
+      <div class="container text-center my-3">
+        <div class="row">
+          <div class="col-lg-6 mx-auto">
+            <h1 class="fw-dark">Детство А.С.Пушкина</h1>
+            <h2 class="fw-light"></h2>
+                </div>
+                <p  class="fs-4 lead" >
+                  Родители Пушкина – отставной майор Сергей Львович, принадлежащий к древнему 
+                  дворянскому роду и Надежда Осиповна, внучка любимца Петра 1 арапа Ганнибала, -
+                  занимались детьми мало.
+                    </p>
+                    <p class="fs-4 lead">
+                      Но зато в московском доме Пушкиных бывали известные литераторы разных 
+                      поколений. Восторженным поэтом-любителем был Пушкинский дядя, Василий 
+                      Львович. Повезло Александру и с няней: от Арины Родионовны Яковлевой, 
+                      получившей вольную, но оставшейся при барчуках, мальчик слышал много 
+                      замечательных русских сказок.
+                      И тем не менее главным «везением» юного Пушкина, событием, предопределившим весь его жизненный путь, стало зачисление в только что открывшийся (19 октября 1811 г.) Царскосельский Императорский лицей. Это было привилегированное учебное заведение для мальчиков из родовитых дворянских семей России. Здесь будущий поэт учился языкам, точным наукам, политической философии и даже искусству стихосложения. Здесь формировались его свободолюбивые взгляды на жизнь и общественное устройство. Здесь он встретил лучших своих друзей - Антона Дельвига, Ивана Пущина, Вильгельма Кюхельбекера. 
+                    </p>
+                    <p class="fs-4 lead">
+                      В лицее - после дебюта в журнале «Вестник Европы» со стихотворением «К другу стихотворцу» (1814 г.) - Пушкин впервые приобрёл известность. 
+                    </p >
+                    <p class="fs-4 lead">
+                      По выходе из лицея (лето 1817 г.) Пушкин служил чиновником Министерства иностранных дел. Но молодые дворяне, как правило, просто числились чиновниками, а на службу ходили редко и денег за неё не получали; Пушкин занимался не столько «иностранными», сколько литературными делами. 
+                    </p>
+                    <p class="fs-4 lead">
+                      С осени 1819 по лето 1820 г. он состоял в петербургском литературном обществе «Зелёная лампа», которое было тесно связано с тайным политическим обществом «Союз благоденствия» - одной из ранних организаций будущих декабристов. В 1820 г. в печати появилась поэма «Руслан и Людмила» - ироничная, возвышенная, лёгкая, проникнутая духом арзамасской вольницы. Поэма принесла Пушкину мгновенную славу. 
+                    </p>
+                    <p class="fs-4 lead">
+                      В Москве, в дни коронационных торжеств, у Пушкина состоялся принципиально важный для него разговор с царём. Не отрёкшись от дружбы с участниками декабрьского восстания, Пушкин сделал решительный шаг навстречу власти и в 1826-1828 гг. создал целый ряд произведений, поддерживающих лучшие начинания нового правителя: «Стансы», записку «О народном восстании» и др. А власть в лице Николая I сделала шаг навстречу «умнейшему человеку России» (так император аттестовал Пушкина после беседы с ним). 
+                    </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </html>
+  </body>
+</html>
